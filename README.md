@@ -2,3 +2,5 @@ This project is a demo project of Spring boot with rest endpoints and using Hibe
 
 The rest endpoints handling the employee details and saving into the my sql database using JPA Hibernate. 
 
+
+For spring security with basic auth- use "user" as username
