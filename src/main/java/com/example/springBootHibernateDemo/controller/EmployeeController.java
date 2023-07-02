@@ -1,4 +1,4 @@
-package com.example.springBootHibernateDemo.endpoints;
+package com.example.springBootHibernateDemo.controller;
 
 import java.util.List;
 import java.util.Optional;
